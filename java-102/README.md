@@ -2,4 +2,5 @@
 Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-102](https://app.patika.dev/courses/java-102) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
 ### Projeler
-1. [Macera Oyunu](https://app.patika.dev/courses/java-102/advgame-1)
+01. [Macera Oyunu](https://app.patika.dev/courses/java-102/advgame-1)
+02. [Liste Sınıfı](https://app.patika.dev/courses/java-102/odev-generics-list)
