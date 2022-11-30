@@ -4,3 +4,4 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-102](https://app.pat
 ### Projeler
 01. [Macera Oyunu](https://app.patika.dev/courses/java-102/advgame-1)
 02. [Liste Sınıfı](https://app.patika.dev/courses/java-102/odev-generics-list)
+03. [Kitap Sıralayıcı](https://app.patika.dev/courses/java-102/odev-collection-book)
