@@ -5,3 +5,6 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-102](https://app.pat
 01. [Macera Oyunu](https://app.patika.dev/courses/java-102/advgame-1)
 02. [Liste Sınıfı](https://app.patika.dev/courses/java-102/odev-generics-list)
 03. [Kitap Sıralayıcı](https://app.patika.dev/courses/java-102/odev-collection-book)
+04. [Fikstür Oluşturucu](https://app.patika.dev/courses/java-102/odev-fixture-generator)
+05. [PatikaStore](https://app.patika.dev/courses/java-102/odev-patika-store)
+06. [Sigorta Yönetim Sistemi](Sigorta Yönetim Sistemi)
