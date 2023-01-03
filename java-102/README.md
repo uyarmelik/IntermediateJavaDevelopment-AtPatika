@@ -8,3 +8,4 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-102](https://app.pat
 04. [Fikstür Oluşturucu](https://app.patika.dev/courses/java-102/odev-fixture-generator)
 05. [PatikaStore](https://app.patika.dev/courses/java-102/odev-patika-store)
 06. [Sigorta Yönetim Sistemi](https://app.patika.dev/courses/java-102/odev-policy-management)
+07. [Threadlerin Yarışı](https://app.patika.dev/courses/java-102/odev-thread)
