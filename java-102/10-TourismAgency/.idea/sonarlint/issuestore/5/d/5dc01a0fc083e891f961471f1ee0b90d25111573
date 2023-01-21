@@ -1,0 +1,43 @@
+
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8•·ó³Ó0
+c
+java:S11922"MDefine a constant instead of duplicating this literal "service_spec" 3 times.(´›àÇ
+e
+java:S11921"ODefine a constant instead of duplicating this literal "boarding_house" 3 times.(ª—Ìƒ
+^
+java:S11920"HDefine a constant instead of duplicating this literal "address" 3 times.(’ä†
+`
+java:S11921"JDefine a constant instead of duplicating this literal "phone_num" 3 times.(ª—Ìƒ
+]
+java:S11922"GDefine a constant instead of duplicating this literal "region" 3 times.(´›àÇ
+\
+java:S11921"FDefine a constant instead of duplicating this literal "email" 3 times.(ª—Ìƒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î³­»øÿÿÿÿ
+j
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™îÚşÿÿÿÿ
+b
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(ß©†¤úÿÿÿÿ
+j
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+b
+java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(ß©†¤úÿÿÿÿ
+i	java:S116"TRename this field "phone_num" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‚ª
+n	java:S116"YRename this field "boarding_house" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¬¦´
+q	java:S116"WRename this field "service_spec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆû’ãüÿÿÿÿ
+\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(öóá¯úÿÿÿÿ
+Q	java:S107K"<Method has 9 parameters, which is greater than 7 authorized.(äªª
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êúøÿÿÿÿ
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äøì
+i	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥àûÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¢Óôÿÿÿÿÿ
+i	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( àá¿ûÿÿÿÿ
+i	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬şñşÿÿÿÿ
+g
+java:S1128"ERemove this unused import 'com.tourismAgencySystem.view.HotelAddGUI'.(ïŠØ‘ıÿÿÿÿ8¬Öó³Ó0
+_
+java:S1128"BRemove this unused import 'com.tourismAgencySystem.view.HotelGUI'.(…ó§™8¬Öó³Ó0
+N
+java:S1128	",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8¬Öó³Ó0

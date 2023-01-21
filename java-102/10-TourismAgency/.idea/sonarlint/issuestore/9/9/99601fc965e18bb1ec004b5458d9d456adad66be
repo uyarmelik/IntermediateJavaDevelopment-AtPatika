@@ -1,0 +1,39 @@
+
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+C
+java:S1604F"(Make this anonymous inner class a lambda(›ö¬äùÿÿÿÿ
+C
+java:S1604M"(Make this anonymous inner class a lambda(¼—È¥øÿÿÿÿ
+C
+java:S1604`"(Make this anonymous inner class a lambda(äæçàûÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(¯”İÆûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚Ï†şÿÿÿÿ
+n	java:S116"YRename this field "tbl_hotel_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¯¨
+m	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦¡şÿÿÿÿ
+q	java:S116"WRename this field "btn_room_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÎäªøÿÿÿÿ
+p	java:S116"VRename this field "lbl_welcome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îóÍ­ûÿÿÿÿ
+q	java:S116"WRename this field "btn_hotelAdd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õğÜ¨úÿÿÿÿ
+n	java:S116"YRename this field "btn_room_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Â´½
+s	java:S116"YRename this field "mdl_hotel_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÅ‹ïúÿÿÿÿ
+n	java:S116"YRename this field "row_hotel_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã€Ğª
+F
+java:S1948"0Make "row_hotel_list" transient or serializable.(Ã€Ğª
+A
+java:S1948 "&Make "user" transient or serializable.(’Ø¾ıÿÿÿÿ
+b
+java:S3252,"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+F
+java:S1481I"0Remove this unused "hotelAddGUI" local variable.(ùì­º
+C
+java:S1481P"-Remove this unused "loginGUI" local variable.(æëòë
+@
+java:S1481X"*Remove this unused "point" local variable.(¢É­§
+J
+java:S1481d"/Remove this unused "roomAddGUI" local variable.(ô‡ª“úÿÿÿÿ
+O
+java:S1481o"4Remove this unused "rooomPricingGUI" local variable.(š©»şÿÿÿÿ
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

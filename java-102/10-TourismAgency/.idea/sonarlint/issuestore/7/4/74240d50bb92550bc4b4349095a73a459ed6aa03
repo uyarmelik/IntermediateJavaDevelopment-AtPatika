@@ -1,0 +1,31 @@
+
+>
+java:S1604."(Make this anonymous inner class a lambda(–÷åò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚Ï†þÿÿÿÿ
+j
+java:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+h	java:S116"TRename this field "fld_ultra" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀïÖJ
+l	java:S116"RRename this field "fld_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŠª¥úÿÿÿÿ
+r	java:S116"XRename this field "fld_breakfast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ŸŸÀøÿÿÿÿ
+h	java:S116"SRename this field "fld_full" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÒ€ê
+h	java:S116"SRename this field "fld_half" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŒ†•
+q	java:S116"WRename this field "fld_only_bed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ûížøÿÿÿÿ
+u	java:S116"[Rename this field "fld_with_alcohol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û”Š½ùÿÿÿÿ
+t	java:S116"SRename this field "btn_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏøŸ¯ùÿÿÿÿ8¿íÁ‡Ó0
+h	java:S116"TRename this field "lbl_ultra" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹°ç
+l	java:S116"RRename this field "lbl_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Š³¼ûÿÿÿÿ
+r	java:S116"XRename this field "lbl_breakfast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áåÞ®ùÿÿÿÿ
+m	java:S116"SRename this field "lbl_full" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëˆ–úùÿÿÿÿ
+m	java:S116"SRename this field "lbl_half" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï²ÀŽøÿÿÿÿ
+l	java:S116"WRename this field "lbl_only_bed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øêÂå
+t	java:S116"ZRename this field "lbl_with_alchol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Þ›¡øÿÿÿÿ
+=
+java:S1948 "'Make "hotel" transient or serializable.(µìáë
+b
+java:S3252)"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ð
+G
+java:S14812"1Remove this unused "pension_type" local variable.(ÐÇ§Ý
+@
+java:S14813"*Remove this unused "price" local variable.(Ë¨ðâ
+E
+java:S11975"*Move the array designators [] to the type.(¨ÐèÂûÿÿÿÿ

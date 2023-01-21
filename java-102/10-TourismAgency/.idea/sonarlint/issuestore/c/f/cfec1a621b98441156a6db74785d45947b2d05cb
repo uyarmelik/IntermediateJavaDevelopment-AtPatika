@@ -1,0 +1,26 @@
+
+`	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+C
+java:S1604;"(Make this anonymous inner class a lambda(¢ÄÿÉúÿÿÿÿ
+J
+java:S1604C"(Make this anonymous inner class a lambda(¼—È¥øÿÿÿÿ8ö±Õ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚Ï†şÿÿÿÿ
+j
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+p	java:S116"VRename this field "tbl_rezList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àê”ÿÿÿÿÿ
+l	java:S116"RRename this field "btn_rez" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö§É‘ÿÿÿÿÿ
+p	java:S116"VRename this field "lbl_welcome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îóÍ­ûÿÿÿÿ
+m	java:S116"SRename this field "scrl_rez" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¸£Øûÿÿÿÿ
+t	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦¡şÿÿÿÿ8ÿÜ°Õ0
+q	java:S116"WRename this field "mdl_rez_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆÛ ùÿÿÿÿ
+l	java:S116"WRename this field "row_rez_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÖüÌ
+<
+java:S1948"&Make "user" transient or serializable.(õ©¯†
+D
+java:S1948".Make "row_rez_list" transient or serializable.(ÑÖüÌ
+b
+java:S3252$"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+H
+java:S1481>"2Remove this unused "searchRoomGUI" local variable.(‚‘é
+J
+java:S1481F"-Remove this unused "loginGUI" local variable.(æëòë8æ±Õ0

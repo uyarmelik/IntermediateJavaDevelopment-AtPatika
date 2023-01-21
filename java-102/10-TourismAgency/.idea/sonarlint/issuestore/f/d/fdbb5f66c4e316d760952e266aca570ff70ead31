@@ -1,0 +1,17 @@
+
+>
+java:S1604""(Make this anonymous inner class a lambda(’›ã
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚Ï†şÿÿÿÿ
+j
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+n	java:S116"TRename this field "fld_uname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥”Ë½şÿÿÿÿ
+h	java:S116"SRename this field "fld_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡¡
+s	java:S116"YRename this field "fld_pass_again" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÅüÿÿÿÿ
+m	java:S116"XRename this field "fld_last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À†ìå
+s	java:S116"YRename this field "fld_first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³ÏĞıÿÿÿÿ
+i	java:S116"TRename this field "fld_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é–¶Ó
+o	java:S116"URename this field "btn_signin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡àƒıÿÿÿÿ
+b
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+C
+java:S14813"-Remove this unused "loginGUI" local variable.(æëòë

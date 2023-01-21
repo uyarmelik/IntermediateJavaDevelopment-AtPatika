@@ -1,0 +1,11 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ξ³­»ψÿÿÿÿ
+j
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ΊΧΨΒϋÿÿÿÿ
+j	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θ•Ϋμ
+i	java:S116"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ΄―
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μώζ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―½Έψÿÿÿÿ
+h	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έν‚Ζωÿÿÿÿ
+b	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό²ε

@@ -1,0 +1,17 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î³­»øÿÿÿÿ
+j
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+b
+java:S2095H"GUse try-with-resources or close this "Statement" in a "finally" clause.(ß©†¤úÿÿÿÿ
+j
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º×ØÂûÿÿÿÿ
+n	java:S116"TRename this field "room_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ýàÒüÿÿÿÿ
+g	java:S116"RRename this field "bed_num" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÎÇé
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÆÄÀ
+b	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ‰¥{
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë»Øõûÿÿÿÿ
+c	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àŸƒ

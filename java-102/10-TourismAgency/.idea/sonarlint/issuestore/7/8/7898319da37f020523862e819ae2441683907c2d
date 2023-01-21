@@ -1,0 +1,25 @@
+
+C
+java:S1604/"(Make this anonymous inner class a lambda(•Áä¤şÿÿÿÿ
+>
+java:S16045"(Make this anonymous inner class a lambda(’›ã
+f
+java:S1301G"KReplace this "switch" statement by "if" statements to increase readability.(—Êµ«ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚Ï†şÿÿÿÿ
+o	java:S116"ZRename this field "fld_uname_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤£ÁŞ
+h	java:S116"SRename this field "fld_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡¡
+i	java:S116"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ø„ö
+o	java:S116"URename this field "btn_signin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡àƒıÿÿÿÿ
+b
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+œ
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
+D
+java:S14818".Remove this unused "signInGui" local variable.(¹åáò
+<	java:S131G""Add a default case to this switch.(—Êµ«ÿÿÿÿÿ
+L
+java:S1481J"/Remove this unused "rezListGUI" local variable.(Ÿ£Í½8¿ÓÅğÔ0
+C
+java:S1481N"-Remove this unused "hotelGUI" local variable.(á¤Æÿ
