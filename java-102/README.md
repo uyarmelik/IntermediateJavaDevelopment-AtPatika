@@ -11,3 +11,4 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-102](https://app.pat
 07. [Threadlerin Yarışı](https://app.patika.dev/courses/java-102/odev-thread)
 08. [Kitap Listesi](https://app.patika.dev/courses/java-102/odev-lambda-stream)
 09. [Patika Klonu](https://app.patika.dev/courses/java-102/patikaklon-7)
+10. [Turizm Acente Sistemi](https://app.patika.dev/courses/java-102/odev-turizm-acente)
